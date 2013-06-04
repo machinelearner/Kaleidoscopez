@@ -1,5 +1,5 @@
 deploy "/opt/Kaleidoscopez" do
-  repo "git://github.com/ThoughtWorksInc/Kaleidoscopez.git"
+  repo "git@github.com:npramod05/Kaleidoscopez.git"
   revision "HEAD"
   user "root"
   shallow_clone true
